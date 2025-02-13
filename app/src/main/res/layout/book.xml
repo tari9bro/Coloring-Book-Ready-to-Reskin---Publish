@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/book_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_padding"
+    android:paddingTop="@dimen/activity_vertical_padding"
+    android:paddingRight="@dimen/activity_horizontal_padding"
+    android:paddingBottom="@dimen/activity_vertical_padding"
+    tools:context="com.tari9bro.coloringb.MainActivity">
+
+    <!-- the root view must be the DrawerLayout -->
+
+    <GridView
+        android:id="@+id/bookSelectionGridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:columnWidth="@dimen/book_preview_width"
+        android:gravity="center"
+        android:numColumns="2"
+        android:stretchMode="spacingWidthUniform"
+        android:verticalSpacing="@dimen/book_gridview_vertical_spacing"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

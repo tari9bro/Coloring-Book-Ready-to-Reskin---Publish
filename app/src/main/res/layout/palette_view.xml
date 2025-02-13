@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/palette"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:weightSum="10">
+
+
+    <com.skydoves.colorpickerview.ColorPickerView
+        android:id="@+id/colorPickerView"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_weight="6"
+        app:initialColor="?attr/colorPrimary"
+        app:preferenceName="Test2"
+        app:selector="@drawable/wheel">
+
+    </com.skydoves.colorpickerview.ColorPickerView>
+
+    <com.skydoves.colorpickerview.sliders.AlphaSlideBar
+        android:id="@+id/alphaSlideBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        app:borderColor_AlphaSlideBar="@android:color/darker_gray"
+        app:borderSize_AlphaSlideBar="5"
+        app:selector_AlphaSlideBar="@drawable/wheel" />
+
+    <com.skydoves.colorpickerview.sliders.BrightnessSlideBar
+        android:id="@+id/brightnessSlide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        app:borderColor_BrightnessSlider="@android:color/darker_gray"
+        app:borderSize_BrightnessSlider="5"
+        app:selector_BrightnessSlider="@drawable/wheel" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:text="#ffffff"
+        android:textColor="?attr/colorAccent"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <com.skydoves.colorpickerview.AlphaTileView
+        android:id="@+id/alphaTileView"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/white"
+        android:orientation="horizontal"
+        app:tileSize="20" />
+
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+alaibsaber@gmail.com
++213696292005
+https://varxiodz.blogspot.com
+
+
+instaloader grimmstein.arts --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone 
+
+
+instaloader albrt132 --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader basilisk_aida --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader naruto.xfk --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader tobirama.art --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader madaraoffcial --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader swordspeed --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader aiartheroesofanime --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader tygerz_designs --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader chuchy_art --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader qrayblock --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader hideki.xx --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+
+
+instaloader twistedvisions.ai   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader anime_represent   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader the_imperator_lord   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader visionaryjem   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader grimmstein.arts   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader chaos.reb0rn   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader imagine.insanity   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader bluekitsune.ai   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader naruto.banger   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader thefantasycreatures   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader insertitle99   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader freiart_mjr   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader otaku.studio   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader vksxlyxs   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader da_vinci_ai_art   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader tooboh.art   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader dragons.era   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader misaki.aiart   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+instaloader twisted_timeline   --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+
+
+instaloader land_rover.auto --no-videos --no-captions --no-metadata-json --no-compress-json --no-resume --no-iphone
+bd2c454d-e580-4633-ada2-dba7898b33dd
+
+
+if contain number 3 and not in the array

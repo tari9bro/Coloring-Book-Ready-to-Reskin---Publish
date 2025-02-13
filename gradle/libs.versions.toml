@@ -1,0 +1,30 @@
+[versions]
+agp = "8.8.0"
+applovinSdk = "13.1.0"
+colorpickerview = "2.3.0"
+constraintlayout = "2.2.0"
+floatingToast = "0.1.1"
+junit = "4.13.2"
+junitVersion = "1.2.1"
+espressoCore = "3.6.1"
+appcompat = "1.7.0"
+material = "1.12.0"
+oopsnointernet = "2.0.0"
+timber = "5.0.1"
+
+[libraries]
+applovin-sdk = { module = "com.applovin:applovin-sdk", version.ref = "applovinSdk" }
+colorpickerview = { module = "com.github.skydoves:colorpickerview", version = "2.3.0" }
+constraintlayout = { module = "androidx.constraintlayout:constraintlayout", version.ref = "constraintlayout" }
+floating-toast = { module = "io.github.hariprasanths:floating-toast", version.ref = "floatingToast" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+oopsnointernet = { module = "org.imaginativeworld.oopsnointernet:oopsnointernet", version.ref = "oopsnointernet" }
+timber = { module = "com.jakewharton.timber:timber", version.ref = "timber" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+

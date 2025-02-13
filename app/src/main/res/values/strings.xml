@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">🎨 Coloring Book - Ready to Reskin &amp; Publish</string>
+    <string name="library_root_folder" translatable="false">library</string>
+    <string name="library_file" translatable="false">library.json</string>
+    <string name="content_description_page_image">Preview of a page to be colored</string>
+    <string name="content_description_book_image">Preview of a book to be colored</string>
+    <string name="coloring_end_dialog_title">Finish?</string>
+    <string name="coloring_end_dialog_positive">Save and exit</string>
+    <string name="coloring_end_dialog_neutral">Just Exit</string>
+    <string name="content_description_back_button">Goes back</string>
+    <string name="content_description_image_gallery">Shows the image gallery</string>
+    <string name="content_description_share_button">Shares the selected image</string>
+    <string name="content_description_delete_button">Deletes the selected image</string>
+    <string name="content_description_about_button">Shows information about the app</string>
+    <string name="content_description_preferences_button">Shows the preferences</string>
+
+    <string name="error_log_dialog_send_report">Send report</string>
+    <string name="content_description_view_image_button">Shows selected image in full screen.</string>
+    <string name="toast_external_storage_unavailable">External storage unavailable. Cannot store or retrieve pictures.</string>
+    <string name="toast_gallery_no_pictures">No colored pictures available yet for that book.</string>
+    <string name="animation_duration" translatable="false">500</string>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+
+    <string name="sdk_key">19qwanncG2sbL6dALJF4dI7HhteoplsGIyvRObRCQMqxcT6fmkt6c_xyL0lcfAFgJIOVhyiglOvKWTVFqRFz0H</string>
+    <string name="bannerAd">5bf7e1d0cd5baf28</string>
+    <string name="Interstitial_id">9d479d1809197b7d</string>
+    <string name="Video_id">7717206696cf0bca</string>
+
+    <string name="w2">Share App</string>
+    <string name="w3">More Apps</string>
+    <string name="w4">Exit</string>
+    <string name="w5">Balance</string>
+    <string name="cancel_exit" translatable="true">exit canceled</string>
+    <string name="n1">No Internet</string>
+    <string name="n2">Check your Internet connection and try again</string>
+    <string name="n3">Please turn on</string>
+    <string name="n4">You have turned on the airplane mode.</string>
+    <string name="n5">Please turn off</string>
+    <string name="n6">Airplane mode</string>
+
+    <string name="w6">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</string>
+    <string name="yes" translatable="true">yes</string>
+    <string name="no" translatable="true">no</string>
+
+    <string name="developer_search" translatable="false">market://search?q=pub:nazzark</string>
+    <string name="app_link" translatable="false">https://play.google.com/store/apps/details?id=com.tari9bro.coloringb</string>
+    <string name="developer_id" translatable="false">http://play.google.com/store/apps/developer?id=nazzark</string>
+    <string name="share_dialog_msg" translatable="true">install this amazing app</string>
+    <string name="share_dialog_title" translatable="true">Share…</string>
+    <string name="exit_dialog_title" translatable="true">Confirm Exit</string>
+    <string name="exit_dialog_msg" translatable="true">are you sure you want to exit the application</string>
+
+</resources>
