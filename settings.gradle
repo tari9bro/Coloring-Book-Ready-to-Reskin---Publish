@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Application"
+rootProject.name = "Coloring Book - Ready to Reskin &amp; Publish"
 include ':app'
